@@ -1,0 +1,14 @@
+C:\Users\Code\Desktop\P224\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.exe
+C:\Users\Code\Desktop\P224\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.deps.json
+C:\Users\Code\Desktop\P224\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.runtimeconfig.json
+C:\Users\Code\Desktop\P224\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.runtimeconfig.dev.json
+C:\Users\Code\Desktop\P224\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.dll
+C:\Users\Code\Desktop\P224\AbstractInterface\bin\Debug\netcoreapp3.1\AbstractInterface.pdb
+C:\Users\Code\Desktop\P224\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\P224\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\P224\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\P224\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.AssemblyInfo.cs
+C:\Users\Code\Desktop\P224\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\P224\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.dll
+C:\Users\Code\Desktop\P224\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.pdb
+C:\Users\Code\Desktop\P224\AbstractInterface\obj\Debug\netcoreapp3.1\AbstractInterface.genruntimeconfig.cache
